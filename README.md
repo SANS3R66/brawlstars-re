@@ -1,4 +1,4 @@
 # brawlstars-re
 a guide for reverse engineering and etc
 
-updated wiki ples star
+added another method for bypassing g_createGameInstance ples star
