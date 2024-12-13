@@ -1,4 +1,4 @@
 # brawlstars-re
 a guide for reverse engineering and etc
 
-added another method for bypassing g_createGameInstance ples star
+теперь страницы русские потому что Z ZOV Раша Russia
